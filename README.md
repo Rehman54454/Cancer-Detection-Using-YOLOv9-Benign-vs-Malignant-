@@ -20,7 +20,7 @@ git clone https://github.com/your-username/yolov9.git
 pip install -r requirements.txt
 
 # **Model:**
-Download trained model trainable weights to load for real time testing from [here](https://universe.roboflow.com/brain-tumor-jolxi/brain-tumor-detection-o0ggc/dataset/2)
+Download trained model trainable weights to load for real time testing from [here](https://github.com/Rehman54454/Cancer-Detection-Using-YOLOv9-Benign-vs-Malignant-)
 
 # **Dataset.**
 You can download and check dataset from [here](https://universe.roboflow.com/brain-tumor-jolxi/brain-tumor-detection-o0ggc/dataset/2)
