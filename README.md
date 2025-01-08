@@ -14,7 +14,9 @@ OpenCV (Open Source Computer Vision Library) is used for image processing tasks 
 
 # **Installing YOLOv9 and Dependencies**
 **Clone the YOLOv9 repository:**
+
 git clone https://github.com/your-username/yolov9.git
+
 pip install -r requirements.txt
 
 # **Model:**
@@ -25,11 +27,14 @@ You can download and check dataset from
 
 # **How to Run the Code**
 Clone this repository.
+
 Install the required dependencies.
+
 Run the TESTING.py file
 
 Download the requirements.txt, replace the image path with your input image file and the YOLO model path with your trained model in the main.py code, then execute the script to detect cancerous regions and classify them as Benign or Malignant.
 
 # **Example Output:**
 **Benign** (Confidence: 0.92)
+
 **Malignant** (Confidence: 0.85)
